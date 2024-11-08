@@ -1,2 +1,5 @@
-# Example_Repo
-Repo used in Byte tutorials to showcase examples
+# .gitignore Configuration
+
+**`gitignore` file**: 
+- Specifies intentionally untracked files to ignore
+- Files already tracked by Git are not affected
